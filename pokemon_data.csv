@@ -1,0 +1,19 @@
+Primary Type,Scores,Should I get this
+BUG,440,True
+DARK,2028,True
+DRAGON,434,True
+ELECTRIC,1775,True
+FAIRY,-498,False
+FIGHTING,2289,True
+FIRE,1600,True
+FLYING,3044,True
+GHOST,-32,False
+GRASS,-648,False
+GROUND,-1034,False
+ICE,-108,False
+NORMAL,1020,True
+POISON,184,True
+PSYCHIC,202,True
+ROCK,-1997,False
+STEEL,-1601,False
+WATER,-692,False
